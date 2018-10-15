@@ -33,6 +33,10 @@ header span{
     color: #999;
 }
 
+.carousel{
+    max-height: 10em;
+}
+
 nav{
     position: fixed;
     top: 0;
